@@ -4,7 +4,7 @@ AI Engineer at Zapdeck.AI. M.Sc. Artificial Intelligence at BTU Cottbus.
 
 I spend most of my time building agentic systems and making large language models cheaper to run in production. Lately I have been focused on multi agent orchestration, retrieval augmented generation pipelines, and quantization strategies that let you serve 8B models on consumer GPUs without losing much accuracy. I also care a lot about evaluation infrastructure and making sure models do not break silently in production.
 
-During my current role, I also won first and second place at Google and Meta/AMD hackathons, where I worked on low latency tool calling and Unsloth based optimization on AMD Instinct GPUs.
+I also won first and second place at Google and Meta/AMD hackathons, where I worked on low latency tool calling and Unsloth based optimization on AMD Instinct GPUs.
 
 ## Some things I have built
 
