@@ -88,7 +88,7 @@ From building multi-agent workflows that reduce failures by **22%** to fine-tuni
 
 **M.Sc. Artificial Intelligence**  
 Brandenburg University of Technology (BTU Cottbus–Senftenberg), Germany  
-*March 2025 – March 2027 (Expected)*
+*March 2025 – Present*
 
 **B.Sc. Computer Science**  
 COMSATS University Islamabad, Pakistan  
