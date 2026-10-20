@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Umair Tufail</h1>
   <h3>AI Engineer · Research · Systems & Infrastructure</h3>
-  <p><i>"I don't just wrap APIs. I build reliable AI systems, optimize LLM inference, and engineer production-ready agent infrastructure."</i></p>
+  <p><i>"I don't just wrap APIs. I build reliable AI systems, optimize LLM inference, and engineer production ready agent infrastructure."</i></p>
   
   <p>
     <a href="https://umairtufail.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
@@ -15,9 +15,9 @@
 
 ### 👨‍💻 The Short Version
 
-I am an **AI & Research Engineer** bridging the gap between cutting-edge LLM research and hardened production infrastructure. With **3+ years of experience**, I specialize in **Agentic Systems, RLVR (Rule-Based Reinforcement Learning), and GPU-optimized Inference**.
+I am an **AI & Research Engineer** bridging the gap between SOTA LLM research and hardened production infrastructure. With **3+ years of experience**, I specialize in **Agentic Systems, RLVR (Rule Based Reinforcement Learning), and GPU optimized Inference**.
 
-From building multi-agent workflows that reduce failures by **22%** to fine-tuning LLaMA and T5 models while cutting training costs by **35%**, I build end-to-end AI systems designed for production.
+From building multi agent workflows that reduce failures to fine tuning opensource LLMs while cutting training costs, I build end to end AI systems designed for production.
 
 ---
 
@@ -27,7 +27,7 @@ From building multi-agent workflows that reduce failures by **22%** to fine-tuni
 | :--- | :--- | :--- |
 | LLM Agents & MCP Tooling | FastAPI, WebSockets, AsyncIO | PyTest, CI/CD |
 | GRPO / RLVR (TRL), LoRA | Docker, RunPod Serverless, AWS | OpenTelemetry, SigNoz Tracing |
-| RAG, Agent Memory, Red-Teaming | CUDA Graphs, bfloat16, KV-Cache | Ruff, Mypy, Execution-based Eval Harnesses |
+| RAG, Agent Memory, Red Teaming | CUDA Graphs, bfloat16, KV Cache | Ruff, Mypy, Execution based Eval Harnesses |
 | PyTorch, Transformers, Whisper | PostgreSQL, Redis, S3 | GitLab CI/CD, Helm, Langfuse |
 
 ---
@@ -45,14 +45,14 @@ From building multi-agent workflows that reduce failures by **22%** to fine-tuni
     <td width="50%" valign="top">
       <h3>🛡️ AgentArena (Agent Security)</h3>
       <p><b>Agent Systems & Security</b></p>
-      <p>Explore my AgentArena repository, focused on agent-based AI development.</p>
+      <p>Explore my AgentArena repository, focused on agent based AI development.</p>
       <a href="https://github.com/umairtufail/AgentArena">View Repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Chatterbox-Optimized</h3>
-      <p><b>Systems-Level TTS Engine</b></p>
+      <h3>⚡ Chatterbox Optimized</h3>
+      <p><b>Systems Level TTS Engine</b></p>
       <p>Up to <b>4.5× faster inference</b> (RTF 0.59 → 0.13) via bucketed CUDA Graphs, bfloat16, and KV-cache tuning. Zero-hallucination pipeline deployed to RunPod.</p>
     </td>
     <td width="50%" valign="top">
@@ -71,7 +71,7 @@ From building multi-agent workflows that reduce failures by **22%** to fine-tuni
 **AI Engineer (Working Student) @ Zapdeck.AI GmbH** *(Berlin, Germany)*  
 *Jun 2025 – Jun 2026*
 
-- Built and deployed FastAPI microservices and LangGraph multi-agent workflows on AWS EKS using PostgreSQL, Redis, Docker, and Helm.
+- Built and deployed FastAPI microservices and LangGraph multi agent workflows on AWS EKS using PostgreSQL, Redis, Docker, and Helm.
 - Optimized vLLM inference and Qdrant RAG pipelines with quantization, hybrid search, and reranking.
 - Implemented Langfuse observability and secure FastMCP connectors, reducing workflow failures by **22%**.
 
@@ -79,8 +79,8 @@ From building multi-agent workflows that reduce failures by **22%** to fine-tuni
 *Mar 2023 – Feb 2025*
 
 - Deployed and monitored production ML and computer vision workloads on AWS.
-- Fine-tuned LLaMA and T5 using QLoRA, reducing training costs by **35%**.
-- Built RAG-based conversational AI, persistent session memory, and semantic search pipelines.
+- Fine tuned LLaMA and T5 using QLoRA, reducing training costs by **35%**.
+- Built RAG based conversational AI, persistent session memory, and semantic search pipelines.
 
 ---
 
